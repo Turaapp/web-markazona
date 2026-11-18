@@ -1,0 +1,729 @@
+{
+  "metadata": {
+    "siteName": "Markazona",
+    "tagline": "Management software for tutoring centres in Morocco",
+    "description": "Markazona is management software for training and tutoring centres in Morocco: online enrolment, students and parents, timetables, attendance, payments in dirhams and a website for your centre.",
+    "ogAlt": "Markazona — the software for tutoring centres in Morocco",
+    "pages": {
+      "home": {
+        "label": "Home",
+        "title": "Markazona — Management software for tutoring centres in Morocco",
+        "description": "Run your tutoring or training centre in Morocco: online enrolment, students, timetables, attendance and payments in dirhams, all in one tool."
+      },
+      "features": {
+        "label": "Features",
+        "title": "Features — enrolment, students, timetables, attendance and payments",
+        "description": "Online enrolment, student and parent records, clash-free timetables, mobile roll call, payments in dirhams, 8 role-based spaces and a website for your centre.",
+        "eyebrow": "Features",
+        "heading": "Your whole centre, on one platform.",
+        "accent": "one platform.",
+        "lead": "From enrolment to the cash desk, every module is designed for the daily life of Moroccan centres — and they all work together."
+      },
+      "solutions": {
+        "label": "Solutions",
+        "title": "Solutions for language schools, tutoring centres and training",
+        "description": "Markazona adapts to language schools, tutoring centres, kids' workshops, professional training and multi-branch private centres in Morocco.",
+        "eyebrow": "Solutions",
+        "heading": "One platform, adapted to the way you teach.",
+        "accent": "the way you teach.",
+        "lead": "Language schools, tutoring, kids' workshops, professional training or multi-activity centres: levels, durations, fees and groups are all configurable."
+      },
+      "pricing": {
+        "label": "Pricing",
+        "title": "Pricing in dirhams — 14-day free trial",
+        "description": "Markazona pricing in Moroccan dirhams: Essential, Pro and Network. 14-day free trial, no commitment, no credit card. 2 months free with annual billing.",
+        "eyebrow": "Pricing",
+        "heading": "Simple pricing, in dirhams.",
+        "accent": "in dirhams.",
+        "lead": "Start free for 14 days. No credit card, no commitment."
+      },
+      "about": {
+        "label": "About",
+        "title": "About Markazona",
+        "description": "Markazona helps training and tutoring centres in Morocco move from paper and WhatsApp to a single platform. Based in Casablanca.",
+        "eyebrow": "About",
+        "heading": "Leave the admin to us. Focus on teaching.",
+        "accent": "Focus on teaching.",
+        "lead": "Markazona started from a simple observation: in Morocco, training centres spend far too much time juggling WhatsApp, notebooks and Excel."
+      },
+      "faq": {
+        "label": "FAQ",
+        "title": "Frequently asked questions",
+        "description": "Answers about Markazona: payments without cards, Arabic interface, branches, data, custom domains, getting started and family access.",
+        "eyebrow": "FAQ",
+        "heading": "Answers to your questions.",
+        "accent": "your questions.",
+        "lead": "Payments, languages, branches, data and setup: everything centres ask us before getting started."
+      },
+      "contact": {
+        "label": "Contact",
+        "title": "Contact — talk to an advisor",
+        "description": "Get in touch with the Markazona team in Casablanca. Onboarding support in French and Darija for your centre.",
+        "eyebrow": "Contact",
+        "heading": "Let's talk about your centre.",
+        "accent": "your centre.",
+        "lead": "Our Casablanca-based team supports you in French and Darija — from your first question to the new school year."
+      }
+    }
+  },
+  "navigation": {
+    "primaryLabel": "Main",
+    "mobileLabel": "Mobile menu",
+    "footerLabel": "Footer",
+    "breadcrumbLabel": "Breadcrumb",
+    "skipToContent": "Skip to content",
+    "homeLink": "Markazona — home",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "login": "Log in",
+    "freeTrial": "Free trial",
+    "items": {
+      "features": "Features",
+      "solutions": "Solutions",
+      "pricing": "Pricing",
+      "about": "About",
+      "faq": "FAQ",
+      "contact": "Contact"
+    }
+  },
+  "language": {
+    "label": "Language",
+    "switcherLabel": "Change language (current language: {language})"
+  },
+  "hero": {
+    "badge": "Built for training centres in Morocco",
+    "title": "Your centre, from website to cash desk, in one tool.",
+    "accent": "in one tool.",
+    "lead": "Online enrolment, students and parents, timetables, attendance and payments in dirhams. Markazona replaces WhatsApp, notebooks and Excel for language schools, tutoring centres, kids' workshops and professional training.",
+    "primaryCta": "Try free for 14 days",
+    "secondaryCta": "See the demo",
+    "reassurance": {
+      "noCard": "No credit card",
+      "languages": "French & Arabic",
+      "payments": "Cash, bank transfer, cheque"
+    },
+    "floating": {
+      "attendanceTitle": "Roll call saved",
+      "attendanceBody": "Maths 2AC · 9 present, 1 absent",
+      "paymentTitle": "Payment received",
+      "paymentBody": "Receipt R-2026-0231 · 600 DH",
+      "enrollmentTitle": "New online enrolment",
+      "enrollmentBody": "Ghali B. · Robotics · Témara",
+      "reminderTitle": "WhatsApp reminder ready",
+      "reminderBody": "November invoice · 3 parents"
+    }
+  },
+  "dashboard": {
+    "linkLabel": "Open the Markazona dashboard demo",
+    "centerName": "Horizon Academy",
+    "centerInitials": "HA",
+    "greeting": "Hello Nadia",
+    "subGreeting": "Saturday 14 November · 3 centres",
+    "sidebar": {
+      "overview": "Overview",
+      "admissions": "Admissions",
+      "students": "Students",
+      "academics": "Academics",
+      "timetable": "Timetable",
+      "attendance": "Attendance",
+      "finance": "Finance",
+      "website": "Website"
+    },
+    "stats": {
+      "students": "Students",
+      "sessionsToday": "Sessions today",
+      "revenue": "Nov. revenue",
+      "attendance": "Attendance"
+    },
+    "attendanceValue": "92%",
+    "currency": "DH",
+    "revenueChart": "Monthly revenue",
+    "upcoming": "Upcoming sessions",
+    "sessions": {
+      "englishKids": "English Kids A2",
+      "maths": "Maths 2AC",
+      "robotics": "Robotics Beginners",
+      "frenchAdults": "French for adults B1"
+    }
+  },
+  "comparison": {
+    "eyebrow": "Before / after",
+    "title": "No more running your centre on WhatsApp, notebooks and Excel.",
+    "accent": "WhatsApp, notebooks and Excel.",
+    "lead": "Organising eats your time, information is scattered, and keeping parents informed is never simple. Markazona brings it all into one place.",
+    "beforeLabel": "Today",
+    "afterLabel": "With Markazona",
+    "before": {
+      "enrollment": "Enrolments arrive on WhatsApp and are copied by hand",
+      "attendance": "Roll call in a notebook, absences noticed too late",
+      "payments": "Payments tracked in Excel, unpaid fees forgotten",
+      "timetable": "Timetable redone every time a room changes",
+      "parents": "Parents chased one by one by phone"
+    },
+    "after": {
+      "enrollment": "Parents enrol on your website, you approve in one click",
+      "attendance": "Roll call on the teacher's phone, management sees everything",
+      "payments": "Numbered receipts, visible unpaid fees, a cash desk that adds up",
+      "timetable": "A timetable with no room or teacher clashes",
+      "parents": "A parent space and ready-made WhatsApp reminders"
+    }
+  },
+  "showcase": {
+    "eyebrow": "Product tour",
+    "title": "Each module works on its own. Together, they talk.",
+    "accent": "they talk.",
+    "lead": "An approved enrolment creates the student, adds them to their group and sets up their first payment. Follow the journey, screen by screen.",
+    "tabsLabel": "Markazona modules",
+    "tabs": {
+      "admissions": {
+        "label": "Admissions",
+        "title": "Requests come in, you decide.",
+        "description": "Parents pick a programme on your website. Each request arrives with all its details, ready to approve.",
+        "points": [
+          "Online enrolment form on your website",
+          "Clear statuses: new, pending, approved",
+          "The student joins their group once approved"
+        ],
+        "alt": "Screenshot of the Markazona app (French interface): the Admissions screen with enrolment requests received through the website, their statuses and a request ready to approve"
+      },
+      "students": {
+        "label": "Students & parents",
+        "title": "A complete record for every student.",
+        "description": "Guardians, +212 phone numbers, enrolments, attendance, payments, progress and documents — all in one place.",
+        "points": [
+          "Siblings linked to the same parent",
+          "Attendance and payment history",
+          "Progress and assessments per enrolment"
+        ],
+        "alt": "Screenshot of the Markazona app (French interface): a student profile with attendance rate, balance due, enrolments, attendance, payments, documents and parent/guardian"
+      },
+      "timetable": {
+        "label": "Timetable",
+        "title": "A clash-free timetable, by design.",
+        "description": "Week or day view by teacher, group, room or branch. Overlaps are flagged before they are saved.",
+        "points": [
+          "Filter by teacher, group, room or centre",
+          "Clashes detected before saving",
+          "Recurring sessions, cancellations, cover"
+        ],
+        "alt": "Screenshot of the Markazona app (French interface): the weekly timetable with filters by teacher, group and room"
+      },
+      "attendance": {
+        "label": "Attendance",
+        "title": "Roll call in seconds, from a phone.",
+        "description": "Everyone present by default, one tap for Absent, Late or Excused. Management sees attendance live and parents are notified.",
+        "points": [
+          "Designed for the teacher's phone",
+          "Present, absent, late, excused",
+          "Attendance rate per student and group"
+        ],
+        "alt": "Screenshot of the Markazona app (French interface): the Attendance screen with today's sessions and a group roll call (present, absent, late, excused)"
+      },
+      "finance": {
+        "label": "Finance",
+        "title": "A cash desk that adds up, in dirhams.",
+        "description": "Cash, bank transfer, cheque and partial payments. Every payment has a numbered receipt and a named cashier; unpaid fees are visible.",
+        "points": [
+          "Invoices, receipts and expenses",
+          "Ready-made WhatsApp reminders",
+          "Reports by centre and by month"
+        ],
+        "alt": "Screenshot of the Markazona app (French interface): the Finance dashboard in dirhams with income, expenses, unpaid balances, invoice status and payment methods"
+      },
+      "website": {
+        "label": "Website",
+        "title": "Your website, your colours, no developer.",
+        "description": "Logo, colours, programmes, teachers and enrolment form. Pick a theme and publish on your own domain.",
+        "points": [
+          "2 themes: Campus and Editorial",
+          "Programmes and enrolments in sync",
+          "Custom domain with the Pro plan"
+        ],
+        "alt": "Screenshot of the Markazona app (French interface): the centre's website editor with the choice between the Campus and Editorial themes and a draft preview"
+      }
+    }
+  },
+  "roles": {
+    "eyebrow": "8 spaces",
+    "title": "A space for every person in your centre.",
+    "accent": "every person",
+    "lead": "Owner, manager, front desk, accountant, teachers, parents and students: each person gets the screens they need — and nothing else.",
+    "groups": {
+      "platform": "Platform",
+      "team": "Centre team",
+      "families": "Families"
+    },
+    "items": {
+      "super": {
+        "name": "Super Admin",
+        "description": "Platform organisations, plans and trials."
+      },
+      "owner": {
+        "name": "Owner",
+        "description": "Every centre, users, settings and the website."
+      },
+      "manager": {
+        "name": "Centre manager",
+        "description": "Students, groups, timetable, attendance and reports for their branch."
+      },
+      "reception": {
+        "name": "Receptionist",
+        "description": "Admissions, enrolments, payments and communication."
+      },
+      "accountant": {
+        "name": "Accountant",
+        "description": "Invoices, receipts, expenses, payroll and financial reports."
+      },
+      "teacher": {
+        "name": "Teacher",
+        "description": "Their timetable, their groups, roll call and progress."
+      },
+      "parent": {
+        "name": "Parent",
+        "description": "Following their children: attendance, payments, progress."
+      },
+      "student": {
+        "name": "Student",
+        "description": "Their timetable, attendance and progress."
+      }
+    },
+    "note": "Each role only sees what concerns it — and the server refuses the rest."
+  },
+  "themes": {
+    "eyebrow": "Public website",
+    "title": "Two elegant themes. Your colours, your programmes.",
+    "accent": "Your colours, your programmes.",
+    "lead": "Each centre picks its theme, colour, tagline, image and testimonials. Publishing updates the public website, using the same data as the app.",
+    "campus": {
+      "name": "Campus",
+      "description": "Warm and reassuring, ideal for families.",
+      "eyebrow": "Since 2023 · Rabat",
+      "title": "Learn with confidence, at every age.",
+      "lead": "Languages, tutoring and workshops: small groups, attentive teachers, progress shared with families.",
+      "primary": "Enrol my child",
+      "secondary": "See programmes",
+      "org": "Horizon Academy",
+      "accent": "at every age."
+    },
+    "editorial": {
+      "name": "Editorial",
+      "description": "Elegant and confident, perfect for exam preparation.",
+      "eyebrow": "Since 2025 · Fès",
+      "title": "Pass your bac with method.",
+      "accent": "with method.",
+      "lead": "Tutoring from middle school to the baccalaureate, mock exams and family follow-up.",
+      "primary": "Enrol",
+      "secondary": "Programmes",
+      "org": "Centre Excellence Plus"
+    },
+    "nav": [
+      "Programmes",
+      "Teachers",
+      "Contact"
+    ],
+    "chips": [
+      "Online enrolment",
+      "Custom domain (Pro)",
+      "French & Arabic"
+    ],
+    "note": "Derived shades are computed from your colour, so customisation never breaks contrast.",
+    "preview": {
+      "switchLabel": "Choose a theme",
+      "colorLabel": "Centre colour",
+      "colors": [
+        "Teal",
+        "Blue",
+        "Violet",
+        "Terracotta",
+        "Ink"
+      ],
+      "previewLabel": "Preview of a centre's public website with the {theme} theme",
+      "registerNow": "Enrol now",
+      "explore": "Explore programmes",
+      "families": "Family space",
+      "free": "Free placement test",
+      "freeD": "No commitment",
+      "nextClass": "Next session",
+      "nextWhen": "Saturday · 10:00",
+      "proof": "{n} students supported this year",
+      "stats": {
+        "students": "active students",
+        "teachers": "teachers",
+        "programs": "programmes",
+        "branches": "centres"
+      },
+      "programsKick": "Our programmes",
+      "programsTitle": "A path for every age",
+      "perMonth": "DH / month",
+      "view": "View programme",
+      "campusPrograms": [
+        {
+          "name": "English for Kids",
+          "meta": "Languages · Ages 6–12",
+          "price": "450"
+        },
+        {
+          "name": "Maths tutoring",
+          "meta": "Tutoring · Ages 12–15",
+          "price": "350"
+        },
+        {
+          "name": "Junior Robotics",
+          "meta": "Kids' workshops · Ages 8–14",
+          "price": "700"
+        }
+      ],
+      "editorialPrograms": [
+        {
+          "name": "High-school maths",
+          "meta": "Tutoring · Ages 15–18",
+          "price": "500"
+        },
+        {
+          "name": "Physics & chemistry",
+          "meta": "Tutoring · Ages 16–18",
+          "price": "500"
+        }
+      ],
+      "editorialNote": "Regular mock exams and progress shared with families."
+    }
+  },
+  "features": {
+    "eyebrow": "Everything included",
+    "title": "Everything your front desk handles today on paper and WhatsApp.",
+    "accent": "paper and WhatsApp.",
+    "lead": "Each module works on its own, and together they talk to each other: an approved enrolment creates the student, adds them to their group and sets up their first payment.",
+    "items": {
+      "onlineEnrollment": {
+        "title": "Online enrolment",
+        "description": "Parents pick a programme on your website. You receive the request, approve it and the student joins their group."
+      },
+      "studentsParents": {
+        "title": "Students & parents",
+        "description": "A complete record: guardians, +212 phone numbers, enrolments, attendance, payments, progress and documents."
+      },
+      "timetable": {
+        "title": "Clash-free timetable",
+        "description": "Week or day view by teacher, group, room or branch. Overlaps are flagged before they are saved."
+      },
+      "attendance": {
+        "title": "Roll call in seconds",
+        "description": "From the teacher's phone: everyone is present by default, one tap for Absent, Late or Excused. Parents are notified."
+      },
+      "payments": {
+        "title": "Payments in dirhams",
+        "description": "Cash, bank transfer, cheque and partial payments. Receipts and invoices you can print or send on WhatsApp."
+      },
+      "website": {
+        "title": "Your website, your colours",
+        "description": "Logo, colours, programmes, teachers and an enrolment form. Publish on your own domain, no developer needed."
+      }
+    }
+  },
+  "solutions": {
+    "eyebrow": "Who it's for",
+    "title": "One app, adapted to the way you teach.",
+    "accent": "the way you teach.",
+    "aside": "Levels, durations, fees and groups are freely configurable. No template forced on you.",
+    "tagsLabel": "Examples: {title}",
+    "items": {
+      "languages": {
+        "category": "Languages",
+        "title": "Language schools",
+        "description": "English, French, Spanish… CEFR levels and placement tests.",
+        "tags": [
+          "A1",
+          "A2",
+          "B1"
+        ]
+      },
+      "tutoring": {
+        "category": "School",
+        "title": "Tutoring centres",
+        "description": "Maths, physics and life sciences by level of the Moroccan school system.",
+        "tags": [
+          "1AC",
+          "2AC",
+          "2 Bac"
+        ]
+      },
+      "kids": {
+        "category": "Kids",
+        "title": "Kids' workshops",
+        "description": "Robotics, coding, art: age groups, parents and permissions.",
+        "tags": [
+          "Ages 7–9",
+          "Ages 10–13"
+        ]
+      },
+      "professional": {
+        "category": "Pro",
+        "title": "Professional training",
+        "description": "Intensive sessions, certificates, corporate invoicing.",
+        "tags": [
+          "Module",
+          "Session"
+        ]
+      },
+      "multi": {
+        "category": "Multi-activity",
+        "title": "Private centres",
+        "description": "Several activities and branches under one brand.",
+        "tags": [
+          "Branches"
+        ]
+      }
+    }
+  },
+  "howItWorks": {
+    "eyebrow": "How it works",
+    "title": "Up and running before the new school year.",
+    "accent": "before the new school year.",
+    "lead": "Set up your workspace in 5 minutes. Our team helps you with the rest.",
+    "steps": {
+      "create": {
+        "title": "Create your workspace",
+        "description": "Centre name, branches, language and currency. Import your students from Excel."
+      },
+      "configure": {
+        "title": "Set up your programmes",
+        "description": "Levels, groups, rooms and teachers. The timetable fills itself in."
+      },
+      "publish": {
+        "title": "Publish and get paid",
+        "description": "Your website takes enrolments, the front desk records payments, and you keep track of everything."
+      }
+    }
+  },
+  "benefits": {
+    "eyebrow": "From the first month",
+    "title": "Less admin, more teaching.",
+    "accent": "more teaching.",
+    "lead": "What teams gain from the very first month.",
+    "items": {
+      "attendance": {
+        "title": "No more attendance registers",
+        "description": "Attendance is taken in class and visible to management."
+      },
+      "unpaid": {
+        "title": "Unpaid fees at a glance",
+        "description": "WhatsApp reminders ready for every parent concerned."
+      },
+      "cash": {
+        "title": "A cash desk that adds up",
+        "description": "Every payment has a numbered receipt and a named cashier."
+      },
+      "branches": {
+        "title": "Multiple branches",
+        "description": "Compare Maârif and Californie side by side on one screen."
+      }
+    }
+  },
+  "trust": {
+    "title": "Built to earn your trust",
+    "items": {
+      "isolation": {
+        "title": "Isolated data",
+        "description": "Each organisation has its own separate space. Export at any time."
+      },
+      "permissions": {
+        "title": "Role-based permissions",
+        "description": "Each role sees what concerns it; the server refuses the rest."
+      },
+      "receipts": {
+        "title": "Traceable cash desk",
+        "description": "Numbered receipts, the cashier behind every payment, justified cancellations."
+      },
+      "bilingual": {
+        "title": "French & Arabic",
+        "description": "A true right-to-left interface. Each user chooses their language."
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "Simple pricing, in dirhams.",
+    "accent": "in dirhams.",
+    "lead": "14-day trial, no commitment. 2 months free with annual billing.",
+    "billingLabel": "Billing period",
+    "monthly": "Monthly",
+    "yearly": "Annual",
+    "yearlyBadge": "2 months free",
+    "perMonth": "DH / month",
+    "perYear": "DH / year",
+    "yearlyEquivalent": "that's {price} DH / month",
+    "includes": "Included",
+    "trialNote": "14 days free on every plan · No credit card · Cancel anytime",
+    "plans": {
+      "essential": {
+        "name": "Essential",
+        "description": "For a centre that's just starting out.",
+        "features": [
+          "1 branch · 150 students",
+          "Students, attendance, payments",
+          "Public website on a markazona.ma subdomain"
+        ],
+        "cta": "Get started"
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "For growing centres.",
+        "features": [
+          "3 branches · 600 students",
+          "Online enrolment & custom domain",
+          "Full finance, reports, roles",
+          "WhatsApp reminders"
+        ],
+        "cta": "Try Pro",
+        "badge": "Most popular"
+      },
+      "network": {
+        "name": "Network",
+        "priceLabel": "Custom quote",
+        "description": "For groups and franchises.",
+        "features": [
+          "Unlimited branches and students",
+          "Multiple organisations",
+          "Dedicated support"
+        ],
+        "cta": "Contact us"
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "They've put their registers away."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Frequently asked questions",
+    "accent": "asked questions",
+    "lead": "Can't find your answer? Our team replies in French and Darija.",
+    "contactCta": "Ask a question",
+    "items": {
+      "cardPayments": {
+        "question": "Do we have to accept card payments?",
+        "answer": "No. Markazona is designed for cash, bank transfers and cheques recorded by the front desk. Online payment is an option, never a requirement."
+      },
+      "arabic": {
+        "question": "Is the interface available in Arabic?",
+        "answer": "Yes, in French and Arabic, with a true right-to-left layout. Each user chooses their own language."
+      },
+      "branches": {
+        "question": "Can I manage several branches?",
+        "answer": "Yes. Each branch has its own rooms, cash desk and managers, with a consolidated view for management."
+      },
+      "data": {
+        "question": "Is my data kept separate from other centres?",
+        "answer": "Each organisation has its own isolated workspace. You can export your data at any time."
+      },
+      "domain": {
+        "question": "Can I use my own domain name?",
+        "answer": "Yes, with the Pro plan: connect a domain such as academie-horizon.ma in a few minutes."
+      },
+      "setup": {
+        "question": "How long does it take to get started?",
+        "answer": "Your workspace is ready in 5 minutes: centre name, branches, language and currency. You then import your students from Excel, and our team supports you in French and Darija."
+      },
+      "commitment": {
+        "question": "Is there a commitment?",
+        "answer": "No. You try it free for 14 days, without a credit card. With annual billing, you get 2 months free."
+      },
+      "families": {
+        "question": "Do parents and students get access?",
+        "answer": "Yes. Parents have their own space to follow their children, and students see their timetable and progress."
+      },
+      "roles": {
+        "question": "Who sees what in the app?",
+        "answer": "Every user has a role: owner, manager, receptionist, accountant, teacher, parent or student. Each sees only the screens for their role, and the server refuses any unauthorised action."
+      }
+    }
+  },
+  "cta": {
+    "eyebrow": "Ready for the new school year?",
+    "title": "Ready to prepare the new school year with Markazona?",
+    "accent": "with Markazona?",
+    "lead": "Set up your workspace in 5 minutes. Our team supports you in French and Darija.",
+    "primary": "Start your free trial",
+    "secondary": "Talk to an advisor"
+  },
+  "video": {
+    "label": "Markazona presentation video, 50 seconds, subtitled",
+    "play": "Watch the video",
+    "playMeta": "50 s · subtitles in Darija, French and English",
+    "captionsAr": "Darija",
+    "captionsFr": "French",
+    "captionsEn": "English",
+    "transcript": "Video transcript",
+    "fallback": "Your browser can’t play this video.",
+    "download": "Download the video (MP4)",
+    "error": "The video couldn’t be loaded. Check your connection and try again.",
+    "retry": "Try again",
+    "posterAlt": "Video preview: the Markazona dashboard of a training centre"
+  },
+  "about": {
+    "storyTitle": "Our story",
+    "story": [
+      "In most centres we meet, enrolments arrive on WhatsApp, roll call happens in a notebook and payments are tracked in Excel. Information is scattered, and the team spends its evenings cross-checking everything.",
+      "We built Markazona to bring a centre's management into one platform, designed for Morocco: in French and Arabic, in dirhams, for cash and cheques, and for the levels of the Moroccan school system.",
+      "Our goal: keep everything clear and organised, so you can focus on what matters — teaching and growing your centre."
+    ],
+    "principlesTitle": "What guides Markazona",
+    "principles": {
+      "local": {
+        "title": "Built for Morocco",
+        "description": "Dirhams, cash and cheques, +212 phone numbers, levels from 1AC to 2 Bac, a right-to-left Arabic interface."
+      },
+      "simple": {
+        "title": "Simple, every day",
+        "description": "Roll call in seconds, a receipt in under a minute, a clash-free timetable."
+      },
+      "trust": {
+        "title": "Trustworthy",
+        "description": "Data isolated per organisation, role-based permissions, every payment traced."
+      }
+    }
+  },
+  "contact": {
+    "channelsTitle": "Choose how to reach us",
+    "whatsapp": {
+      "title": "Talk to an advisor",
+      "description": "A question before you start? Message us on WhatsApp, in French or Darija.",
+      "cta": "Open WhatsApp"
+    },
+    "trial": {
+      "title": "Try it free",
+      "description": "Set up your workspace in 5 minutes and try Markazona for 14 days, no credit card.",
+      "cta": "Start the trial"
+    },
+    "demo": {
+      "title": "See the demo",
+      "description": "Explore the app with the data of a demo centre.",
+      "cta": "Open the demo"
+    },
+    "location": "Casablanca, Morocco",
+    "languages": "Français · العربية · Darija"
+  },
+  "footer": {
+    "tagline": "The management platform for training and tutoring centres in Morocco.",
+    "location": "Casablanca, Morocco",
+    "product": "Product",
+    "company": "Company",
+    "getStarted": "Get started",
+    "rights": "© {year} Markazona. All rights reserved.",
+    "madeIn": "Designed in Morocco"
+  },
+  "notFound": {
+    "metaTitle": "Page not found",
+    "eyebrow": "Error 404",
+    "title": "This page doesn't exist.",
+    "lead": "The link may be out of date. Head back to the home page to discover Markazona.",
+    "cta": "Back to home"
+  },
+  "schema": {
+    "appSubCategory": "Training centre management software",
+    "serviceName": "Markazona for {audience}",
+    "country": "Morocco",
+    "city": "Casablanca"
+  }
+}

@@ -1,0 +1,729 @@
+{
+  "metadata": {
+    "siteName": "Markazona",
+    "tagline": "Logiciel de gestion pour centres de soutien scolaire au Maroc",
+    "description": "Markazona est le logiciel de gestion des centres de formation et de soutien scolaire au Maroc : inscriptions en ligne, élèves et parents, emplois du temps, présences, paiements en dirhams et site web du centre.",
+    "ogAlt": "Markazona — le logiciel des centres de soutien scolaire au Maroc",
+    "pages": {
+      "home": {
+        "label": "Accueil",
+        "title": "Markazona — Logiciel de gestion pour centres de soutien scolaire au Maroc",
+        "description": "Gérez votre centre de soutien scolaire ou de formation au Maroc : inscriptions en ligne, élèves, emplois du temps, présences et paiements en dirhams."
+      },
+      "features": {
+        "label": "Fonctionnalités",
+        "title": "Fonctionnalités — inscriptions, élèves, planning, présences et paiements",
+        "description": "Inscriptions en ligne, fiches élèves et parents, emploi du temps sans conflit, appel sur mobile, paiements en dirhams, 8 espaces par rôle et site web du centre.",
+        "eyebrow": "Fonctionnalités",
+        "heading": "Tout votre centre, dans une seule plateforme.",
+        "accent": "une seule plateforme.",
+        "lead": "Des inscriptions à la caisse, chaque module est pensé pour le quotidien des centres marocains — et ils fonctionnent ensemble."
+      },
+      "solutions": {
+        "label": "Solutions",
+        "title": "Solutions pour écoles de langues, soutien scolaire et formation",
+        "description": "Markazona s'adapte aux écoles de langues, centres de soutien scolaire, ateliers enfants, formation professionnelle et centres privés multi-succursales au Maroc.",
+        "eyebrow": "Solutions",
+        "heading": "Une plateforme, adaptée à votre façon d'enseigner.",
+        "accent": "votre façon d'enseigner.",
+        "lead": "Écoles de langues, soutien scolaire, ateliers enfants, formation professionnelle ou centres multi-activités : niveaux, durées, tarifs et groupes se configurent librement."
+      },
+      "pricing": {
+        "label": "Tarifs",
+        "title": "Tarifs en dirhams — essai gratuit 14 jours",
+        "description": "Les tarifs de Markazona en dirhams : Essentiel, Pro et Réseau. 14 jours d'essai, sans engagement et sans carte bancaire. 2 mois offerts en annuel.",
+        "eyebrow": "Tarifs",
+        "heading": "Des tarifs simples, en dirhams.",
+        "accent": "en dirhams.",
+        "lead": "Commencez gratuitement pendant 14 jours. Sans carte bancaire, sans engagement."
+      },
+      "about": {
+        "label": "À propos",
+        "title": "À propos de Markazona",
+        "description": "Markazona aide les centres de formation et de soutien scolaire au Maroc à passer du papier et de WhatsApp à une plateforme unique. Basé à Casablanca.",
+        "eyebrow": "À propos",
+        "heading": "Laissez-nous la gestion. Concentrez-vous sur l'enseignement.",
+        "accent": "l'enseignement.",
+        "lead": "Markazona est né d'un constat simple : au Maroc, les centres de formation passent trop de temps entre WhatsApp, cahiers et Excel."
+      },
+      "faq": {
+        "label": "FAQ",
+        "title": "Questions fréquentes",
+        "description": "Réponses aux questions sur Markazona : paiements sans carte, interface en arabe, succursales, données, nom de domaine, mise en place et espaces parents.",
+        "eyebrow": "FAQ",
+        "heading": "Les réponses à vos questions.",
+        "accent": "vos questions.",
+        "lead": "Paiements, langues, succursales, données, mise en place : tout ce que les centres nous demandent avant de commencer."
+      },
+      "contact": {
+        "label": "Contact",
+        "title": "Contact — parler à un conseiller",
+        "description": "Contactez l'équipe Markazona à Casablanca. Accompagnement en français et en darija pour la mise en place de votre centre.",
+        "eyebrow": "Contact",
+        "heading": "Parlons de votre centre.",
+        "accent": "votre centre.",
+        "lead": "Notre équipe, basée à Casablanca, vous accompagne en français et en darija — de la première question à la rentrée."
+      }
+    }
+  },
+  "navigation": {
+    "primaryLabel": "Principal",
+    "mobileLabel": "Menu mobile",
+    "footerLabel": "Pied de page",
+    "breadcrumbLabel": "Fil d'Ariane",
+    "skipToContent": "Aller au contenu",
+    "homeLink": "Markazona — accueil",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "login": "Connexion",
+    "freeTrial": "Essai gratuit",
+    "items": {
+      "features": "Fonctionnalités",
+      "solutions": "Solutions",
+      "pricing": "Tarifs",
+      "about": "À propos",
+      "faq": "FAQ",
+      "contact": "Contact"
+    }
+  },
+  "language": {
+    "label": "Langue",
+    "switcherLabel": "Changer de langue (langue actuelle : {language})"
+  },
+  "hero": {
+    "badge": "Conçu pour les centres de formation au Maroc",
+    "title": "Votre centre, du site web à la caisse, dans un seul outil.",
+    "accent": "dans un seul outil.",
+    "lead": "Inscriptions en ligne, élèves et parents, emplois du temps, présences et paiements en dirhams. Markazona remplace WhatsApp, les cahiers et Excel pour les écoles de langues, le soutien scolaire, les ateliers enfants et la formation professionnelle.",
+    "primaryCta": "Essayer 14 jours gratuitement",
+    "secondaryCta": "Voir la démo",
+    "reassurance": {
+      "noCard": "Sans carte bancaire",
+      "languages": "Français & arabe",
+      "payments": "Espèces, virement, chèque"
+    },
+    "floating": {
+      "attendanceTitle": "Appel enregistré",
+      "attendanceBody": "Maths 2AC · 9 présents, 1 absent",
+      "paymentTitle": "Paiement reçu",
+      "paymentBody": "Reçu R-2026-0231 · 600 DH",
+      "enrollmentTitle": "Nouvelle inscription en ligne",
+      "enrollmentBody": "Ghali B. · Robotique · Témara",
+      "reminderTitle": "Rappel WhatsApp prêt",
+      "reminderBody": "Facture de novembre · 3 parents"
+    }
+  },
+  "dashboard": {
+    "linkLabel": "Ouvrir la démo du tableau de bord Markazona",
+    "centerName": "Académie Horizon",
+    "centerInitials": "AH",
+    "greeting": "Bonjour Nadia",
+    "subGreeting": "Samedi 14 novembre · 3 centres",
+    "sidebar": {
+      "overview": "Vue d'ensemble",
+      "admissions": "Admissions",
+      "students": "Élèves",
+      "academics": "Pédagogie",
+      "timetable": "Emploi du temps",
+      "attendance": "Présences",
+      "finance": "Finance",
+      "website": "Site web"
+    },
+    "stats": {
+      "students": "Élèves",
+      "sessionsToday": "Séances aujourd'hui",
+      "revenue": "Revenus nov.",
+      "attendance": "Présence"
+    },
+    "attendanceValue": "92 %",
+    "currency": "DH",
+    "revenueChart": "Revenus mensuels",
+    "upcoming": "Prochaines séances",
+    "sessions": {
+      "englishKids": "English Kids A2",
+      "maths": "Maths 2AC",
+      "robotics": "Robotique Débutant",
+      "frenchAdults": "Français adultes B1"
+    }
+  },
+  "comparison": {
+    "eyebrow": "Avant / après",
+    "title": "Fini le centre géré entre WhatsApp, cahiers et Excel.",
+    "accent": "WhatsApp, cahiers et Excel.",
+    "lead": "Vous perdez du temps à organiser, l'information est éparpillée, et communiquer avec les parents n'est pas toujours simple. Markazona réunit tout au même endroit.",
+    "beforeLabel": "Aujourd'hui",
+    "afterLabel": "Avec Markazona",
+    "before": {
+      "enrollment": "Inscriptions reçues sur WhatsApp, recopiées à la main",
+      "attendance": "Appel sur un cahier, absences découvertes trop tard",
+      "payments": "Paiements suivis dans Excel, impayés oubliés",
+      "timetable": "Planning refait à chaque changement de salle",
+      "parents": "Parents relancés un par un au téléphone"
+    },
+    "after": {
+      "enrollment": "Les parents s'inscrivent sur votre site, vous approuvez en un clic",
+      "attendance": "L'appel se fait sur le téléphone du prof, la direction voit tout",
+      "payments": "Reçus numérotés, impayés visibles, caisse juste",
+      "timetable": "Emploi du temps sans conflit de salle ni de prof",
+      "parents": "Un espace parents et des rappels WhatsApp préparés"
+    }
+  },
+  "showcase": {
+    "eyebrow": "Visite guidée",
+    "title": "Chaque module fonctionne seul. Ensemble, ils se parlent.",
+    "accent": "ils se parlent.",
+    "lead": "Une inscription approuvée crée l'élève, l'ajoute au groupe et prépare sa première échéance. Découvrez le parcours, écran par écran.",
+    "tabsLabel": "Modules de Markazona",
+    "tabs": {
+      "admissions": {
+        "label": "Admissions",
+        "title": "Les demandes arrivent, vous décidez.",
+        "description": "Les parents choisissent un programme sur votre site. Chaque demande arrive avec ses informations, prête à être approuvée.",
+        "points": [
+          "Formulaire d'inscription en ligne sur votre site",
+          "Statuts clairs : nouvelle, en attente, approuvée",
+          "L'élève rejoint son groupe dès l'approbation"
+        ],
+        "alt": "Capture de l'application Markazona : écran Admissions avec les demandes d'inscription reçues via le site web, leurs statuts et le détail d'une demande prête à être approuvée"
+      },
+      "students": {
+        "label": "Élèves & parents",
+        "title": "Une fiche complète pour chaque élève.",
+        "description": "Tuteurs, téléphones +212, inscriptions, présences, paiements, progrès et documents : tout est au même endroit.",
+        "points": [
+          "Fratries reliées au même parent",
+          "Historique des présences et des paiements",
+          "Progrès et évaluations par inscription"
+        ],
+        "alt": "Capture de l'application Markazona : fiche élève avec assiduité, solde dû, inscriptions, présences, paiements, documents et parent/tuteur"
+      },
+      "timetable": {
+        "label": "Emploi du temps",
+        "title": "Un planning sans conflit, par construction.",
+        "description": "Vue semaine ou jour par prof, groupe, salle ou succursale. Les chevauchements sont signalés avant d'être enregistrés.",
+        "points": [
+          "Filtrer par prof, groupe, salle ou centre",
+          "Conflits détectés avant l'enregistrement",
+          "Séances récurrentes, annulations, remplacements"
+        ],
+        "alt": "Capture de l'application Markazona : emploi du temps de la semaine avec filtres par enseignant, groupe et salle"
+      },
+      "attendance": {
+        "label": "Présences",
+        "title": "L'appel en quelques secondes, depuis le téléphone.",
+        "description": "Tous présents par défaut, un geste pour Absent, Retard ou Excusé. La direction voit les présences en direct et les parents sont prévenus.",
+        "points": [
+          "Pensé pour le téléphone du prof",
+          "Présent, absent, retard, excusé",
+          "Taux de présence par élève et par groupe"
+        ],
+        "alt": "Capture de l'application Markazona : écran Présences avec les séances du jour et l'appel d'un groupe (présent, absent, retard, excusé)"
+      },
+      "finance": {
+        "label": "Finance",
+        "title": "Une caisse juste, en dirhams.",
+        "description": "Espèces, virement, chèque, paiements partiels. Chaque encaissement a son reçu numéroté et son auteur ; les impayés sont visibles.",
+        "points": [
+          "Factures, reçus et dépenses",
+          "Relances WhatsApp préparées",
+          "Rapports par centre et par mois"
+        ],
+        "alt": "Capture de l'application Markazona : tableau de bord Finance en dirhams avec revenus, dépenses, impayés, état des factures et modes de paiement"
+      },
+      "website": {
+        "label": "Site web",
+        "title": "Votre site, à vos couleurs, sans développeur.",
+        "description": "Logo, couleurs, programmes, enseignants et formulaire d'inscription. Choisissez un thème et publiez sur votre propre domaine.",
+        "points": [
+          "2 thèmes : Campus et Éditorial",
+          "Programmes et inscriptions synchronisés",
+          "Domaine propre avec le plan Pro"
+        ],
+        "alt": "Capture de l'application Markazona : éditeur du site web du centre avec le choix entre les thèmes Campus et Éditorial et l'aperçu du brouillon"
+      }
+    }
+  },
+  "roles": {
+    "eyebrow": "8 espaces",
+    "title": "Un espace pour chaque personne de votre centre.",
+    "accent": "chaque personne",
+    "lead": "Propriétaire, responsable, accueil, comptable, enseignants, parents et élèves : chacun retrouve les écrans dont il a besoin — et rien d'autre.",
+    "groups": {
+      "platform": "Plateforme",
+      "team": "Équipe du centre",
+      "families": "Familles"
+    },
+    "items": {
+      "super": {
+        "name": "Super Admin",
+        "description": "Organisations, plans et essais de la plateforme."
+      },
+      "owner": {
+        "name": "Propriétaire",
+        "description": "Tous les centres, les utilisateurs, les paramètres et le site."
+      },
+      "manager": {
+        "name": "Responsable de centre",
+        "description": "Élèves, groupes, planning, présences et rapports de sa succursale."
+      },
+      "reception": {
+        "name": "Réceptionniste",
+        "description": "Admissions, inscriptions, paiements et communication."
+      },
+      "accountant": {
+        "name": "Comptable",
+        "description": "Factures, reçus, dépenses, paie et rapports financiers."
+      },
+      "teacher": {
+        "name": "Enseignant",
+        "description": "Son emploi du temps, ses groupes, l'appel et les progrès."
+      },
+      "parent": {
+        "name": "Parent",
+        "description": "Le suivi de ses enfants : présences, paiements, progrès."
+      },
+      "student": {
+        "name": "Élève",
+        "description": "Son emploi du temps, ses présences et ses progrès."
+      }
+    },
+    "note": "Chaque rôle ne voit que ce qui le concerne — et le serveur refuse le reste."
+  },
+  "themes": {
+    "eyebrow": "Site public",
+    "title": "Deux thèmes élégants. Vos couleurs, vos programmes.",
+    "accent": "Vos couleurs, vos programmes.",
+    "lead": "Chaque centre choisit son thème, sa couleur, son accroche, son image et ses témoignages. La publication met à jour le site public, avec les mêmes données que l'application.",
+    "campus": {
+      "name": "Campus",
+      "description": "Chaleureux et rassurant, idéal pour les familles.",
+      "eyebrow": "Depuis 2023 · Rabat",
+      "title": "Apprendre avec confiance, à chaque âge.",
+      "lead": "Langues, soutien scolaire et ateliers : petits groupes, enseignants attentifs, suivi partagé avec les familles.",
+      "primary": "Inscrire mon enfant",
+      "secondary": "Voir les programmes",
+      "org": "Académie Horizon",
+      "accent": "à chaque âge."
+    },
+    "editorial": {
+      "name": "Éditorial",
+      "description": "Élégant et affirmé, parfait pour la préparation aux examens.",
+      "eyebrow": "Depuis 2025 · Fès",
+      "title": "Réussir son bac avec méthode.",
+      "accent": "avec méthode.",
+      "lead": "Soutien scolaire du collège au baccalauréat, examens blancs et suivi des familles.",
+      "primary": "S'inscrire",
+      "secondary": "Programmes",
+      "org": "Centre Excellence Plus"
+    },
+    "nav": [
+      "Programmes",
+      "Enseignants",
+      "Contact"
+    ],
+    "chips": [
+      "Inscription en ligne",
+      "Domaine propre (Pro)",
+      "Français & arabe"
+    ],
+    "note": "Les teintes dérivées sont calculées à partir de votre couleur, pour que la personnalisation ne casse jamais le contraste.",
+    "preview": {
+      "switchLabel": "Choisir un thème",
+      "colorLabel": "Couleur du centre",
+      "colors": [
+        "Sarcelle",
+        "Bleu",
+        "Violet",
+        "Terracotta",
+        "Encre"
+      ],
+      "previewLabel": "Aperçu du site public d'un centre avec le thème {theme}",
+      "registerNow": "S’inscrire maintenant",
+      "explore": "Découvrir les programmes",
+      "families": "Espace familles",
+      "free": "Test de niveau offert",
+      "freeD": "Sans engagement",
+      "nextClass": "Prochaine séance",
+      "nextWhen": "Samedi · 10:00",
+      "proof": "{n} élèves accompagnés cette année",
+      "stats": {
+        "students": "élèves actifs",
+        "teachers": "enseignants",
+        "programs": "programmes",
+        "branches": "centres"
+      },
+      "programsKick": "Nos programmes",
+      "programsTitle": "Un parcours pour chaque âge",
+      "perMonth": "DH / mois",
+      "view": "Voir le programme",
+      "campusPrograms": [
+        {
+          "name": "English for Kids",
+          "meta": "Langues · 6–12 ans",
+          "price": "450"
+        },
+        {
+          "name": "Soutien en mathématiques",
+          "meta": "Soutien scolaire · 12–15 ans",
+          "price": "350"
+        },
+        {
+          "name": "Junior Robotics",
+          "meta": "Ateliers enfants · 8–14 ans",
+          "price": "700"
+        }
+      ],
+      "editorialPrograms": [
+        {
+          "name": "Mathématiques lycée",
+          "meta": "Soutien scolaire · 15–18 ans",
+          "price": "500"
+        },
+        {
+          "name": "Physique-Chimie",
+          "meta": "Soutien scolaire · 16–18 ans",
+          "price": "500"
+        }
+      ],
+      "editorialNote": "Examens blancs réguliers et suivi partagé avec les familles."
+    }
+  },
+  "features": {
+    "eyebrow": "Tout est inclus",
+    "title": "Tout ce que votre accueil gère aujourd'hui sur papier et WhatsApp.",
+    "accent": "papier et WhatsApp.",
+    "lead": "Chaque module fonctionne seul, et ensemble ils se parlent : une inscription approuvée crée l'élève, l'ajoute au groupe et prépare sa première échéance.",
+    "items": {
+      "onlineEnrollment": {
+        "title": "Inscriptions en ligne",
+        "description": "Les parents choisissent un programme sur votre site. Vous recevez la demande, l'approuvez et l'élève rejoint son groupe."
+      },
+      "studentsParents": {
+        "title": "Élèves & parents",
+        "description": "Une fiche complète : tuteurs, téléphones +212, inscriptions, présences, paiements, progrès et documents."
+      },
+      "timetable": {
+        "title": "Emploi du temps sans conflit",
+        "description": "Vue semaine ou jour par prof, groupe, salle ou succursale. Les chevauchements sont signalés avant d'être enregistrés."
+      },
+      "attendance": {
+        "title": "Appel en quelques secondes",
+        "description": "Depuis le téléphone du prof : tous présents par défaut, un geste pour Absent, Retard ou Excusé. Les parents sont prévenus."
+      },
+      "payments": {
+        "title": "Paiements en dirhams",
+        "description": "Espèces, virement, chèque, paiements partiels. Reçus et factures imprimables ou envoyés sur WhatsApp."
+      },
+      "website": {
+        "title": "Votre site, à vos couleurs",
+        "description": "Logo, couleurs, programmes, enseignants, formulaire d'inscription. Publiez sur votre propre domaine, sans développeur."
+      }
+    }
+  },
+  "solutions": {
+    "eyebrow": "Pour qui ?",
+    "title": "Une seule application, adaptée à votre façon d'enseigner.",
+    "accent": "votre façon d'enseigner.",
+    "aside": "Niveaux, durées, tarifs et groupes se configurent librement. Pas de modèle imposé.",
+    "tagsLabel": "Exemples : {title}",
+    "items": {
+      "languages": {
+        "category": "Langues",
+        "title": "Écoles de langues",
+        "description": "Anglais, français, espagnol… niveaux CECRL et tests de placement.",
+        "tags": [
+          "A1",
+          "A2",
+          "B1"
+        ]
+      },
+      "tutoring": {
+        "category": "Scolaire",
+        "title": "Soutien scolaire",
+        "description": "Maths, physique, SVT par niveau du système marocain.",
+        "tags": [
+          "1AC",
+          "2AC",
+          "2 Bac"
+        ]
+      },
+      "kids": {
+        "category": "Enfants",
+        "title": "Ateliers enfants",
+        "description": "Robotique, code, art : tranches d'âge, parents et autorisations.",
+        "tags": [
+          "7–9 ans",
+          "10–13 ans"
+        ]
+      },
+      "professional": {
+        "category": "Pro",
+        "title": "Formation professionnelle",
+        "description": "Sessions intensives, attestations, facturation entreprise.",
+        "tags": [
+          "Module",
+          "Session"
+        ]
+      },
+      "multi": {
+        "category": "Multi-activités",
+        "title": "Centres privés",
+        "description": "Plusieurs activités et succursales sous une même marque.",
+        "tags": [
+          "Succursales"
+        ]
+      }
+    }
+  },
+  "howItWorks": {
+    "eyebrow": "Comment ça marche",
+    "title": "Opérationnel avant la rentrée.",
+    "accent": "avant la rentrée.",
+    "lead": "Créez votre espace en 5 minutes. Notre équipe vous accompagne pour le reste.",
+    "steps": {
+      "create": {
+        "title": "Créez votre espace",
+        "description": "Nom du centre, succursales, langue et devise. Importez vos élèves depuis Excel."
+      },
+      "configure": {
+        "title": "Configurez vos programmes",
+        "description": "Niveaux, groupes, salles et enseignants. L'emploi du temps se remplit automatiquement."
+      },
+      "publish": {
+        "title": "Publiez et encaissez",
+        "description": "Votre site reçoit les inscriptions, l'accueil enregistre les paiements, vous suivez tout."
+      }
+    }
+  },
+  "benefits": {
+    "eyebrow": "Dès le premier mois",
+    "title": "Moins d'administratif, plus d'enseignement.",
+    "accent": "plus d'enseignement.",
+    "lead": "Ce que les équipes gagnent dès le premier mois.",
+    "items": {
+      "attendance": {
+        "title": "Plus de cahiers d'appel",
+        "description": "Les présences sont saisies en classe et visibles par la direction."
+      },
+      "unpaid": {
+        "title": "Impayés visibles",
+        "description": "Relances WhatsApp préparées pour chaque parent concerné."
+      },
+      "cash": {
+        "title": "Une caisse juste",
+        "description": "Chaque encaissement a son reçu numéroté et son auteur."
+      },
+      "branches": {
+        "title": "Plusieurs succursales",
+        "description": "Comparez Maârif et Californie sur un même écran."
+      }
+    }
+  },
+  "trust": {
+    "title": "Conçu pour inspirer confiance",
+    "items": {
+      "isolation": {
+        "title": "Données isolées",
+        "description": "Chaque organisation a son espace séparé. Export possible à tout moment."
+      },
+      "permissions": {
+        "title": "Permissions par rôle",
+        "description": "Chaque rôle voit ce qui le concerne ; le serveur refuse le reste."
+      },
+      "receipts": {
+        "title": "Traçabilité de la caisse",
+        "description": "Reçus numérotés, auteur de chaque encaissement, annulations motivées."
+      },
+      "bilingual": {
+        "title": "Français & arabe",
+        "description": "Une vraie interface de droite à gauche. Chaque utilisateur choisit sa langue."
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Tarifs",
+    "title": "Des tarifs simples, en dirhams.",
+    "accent": "en dirhams.",
+    "lead": "14 jours d'essai, sans engagement. −2 mois offerts en annuel.",
+    "billingLabel": "Période de facturation",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "yearlyBadge": "2 mois offerts",
+    "perMonth": "DH / mois",
+    "perYear": "DH / an",
+    "yearlyEquivalent": "soit {price} DH / mois",
+    "includes": "Inclus",
+    "trialNote": "14 jours gratuits sur tous les plans · Sans carte bancaire · Résiliable à tout moment",
+    "plans": {
+      "essential": {
+        "name": "Essentiel",
+        "description": "Pour un centre qui démarre.",
+        "features": [
+          "1 succursale · 150 élèves",
+          "Élèves, présences, paiements",
+          "Site public sous-domaine markazona.ma"
+        ],
+        "cta": "Commencer"
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "Pour les centres en croissance.",
+        "features": [
+          "3 succursales · 600 élèves",
+          "Inscriptions en ligne & domaine propre",
+          "Finance complète, rapports, rôles",
+          "Rappels WhatsApp"
+        ],
+        "cta": "Essayer Pro",
+        "badge": "Le plus choisi"
+      },
+      "network": {
+        "name": "Réseau",
+        "priceLabel": "Sur devis",
+        "description": "Pour les groupes et franchises.",
+        "features": [
+          "Succursales et élèves illimités",
+          "Plusieurs organisations",
+          "Accompagnement dédié"
+        ],
+        "cta": "Nous contacter"
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Témoignages",
+    "title": "Ils ont rangé leurs cahiers."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions fréquentes",
+    "accent": "fréquentes",
+    "lead": "Vous ne trouvez pas votre réponse ? Notre équipe vous répond en français et en darija.",
+    "contactCta": "Poser une question",
+    "items": {
+      "cardPayments": {
+        "question": "Faut-il accepter les paiements par carte ?",
+        "answer": "Non. Markazona est pensé pour les espèces, virements et chèques enregistrés par l'accueil. Le paiement en ligne est une option, jamais une obligation."
+      },
+      "arabic": {
+        "question": "L'interface existe-t-elle en arabe ?",
+        "answer": "Oui, en français et en arabe avec une vraie mise en page de droite à gauche. Chaque utilisateur choisit sa langue."
+      },
+      "branches": {
+        "question": "Puis-je gérer plusieurs succursales ?",
+        "answer": "Oui. Chaque succursale a ses salles, sa caisse et ses responsables, avec une vue consolidée pour la direction."
+      },
+      "data": {
+        "question": "Mes données sont-elles séparées des autres centres ?",
+        "answer": "Chaque organisation dispose d'un espace isolé. Vous pouvez exporter vos données à tout moment."
+      },
+      "domain": {
+        "question": "Puis-je utiliser mon propre nom de domaine ?",
+        "answer": "Oui, avec le plan Pro : connectez par exemple academie-horizon.ma en quelques minutes."
+      },
+      "setup": {
+        "question": "Combien de temps faut-il pour démarrer ?",
+        "answer": "Votre espace est créé en 5 minutes : nom du centre, succursales, langue et devise. Vous importez ensuite vos élèves depuis Excel, et notre équipe vous accompagne en français et en darija."
+      },
+      "commitment": {
+        "question": "Y a-t-il un engagement ?",
+        "answer": "Non. Vous testez gratuitement pendant 14 jours, sans carte bancaire. En annuel, 2 mois sont offerts."
+      },
+      "families": {
+        "question": "Les parents et les élèves ont-ils un accès ?",
+        "answer": "Oui. Les parents ont leur propre espace pour suivre leurs enfants, et les élèves retrouvent leur emploi du temps et leurs progrès."
+      },
+      "roles": {
+        "question": "Qui voit quoi dans l'application ?",
+        "answer": "Chaque utilisateur a un rôle : propriétaire, responsable, réceptionniste, comptable, enseignant, parent ou élève. Chacun ne voit que les écrans de son rôle, et le serveur refuse toute action non autorisée."
+      }
+    }
+  },
+  "cta": {
+    "eyebrow": "Prêt pour la rentrée ?",
+    "title": "Prêt à préparer la rentrée avec Markazona ?",
+    "accent": "avec Markazona ?",
+    "lead": "Créez votre espace en 5 minutes. Notre équipe vous accompagne en français et en darija.",
+    "primary": "Commencer l'essai gratuit",
+    "secondary": "Parler à un conseiller"
+  },
+  "video": {
+    "label": "Vidéo de présentation de Markazona, 50 secondes, sous-titrée",
+    "play": "Regarder la vidéo",
+    "playMeta": "50 s · sous-titres en darija, français et anglais",
+    "captionsAr": "Darija",
+    "captionsFr": "Français",
+    "captionsEn": "Anglais",
+    "transcript": "Transcription de la vidéo",
+    "fallback": "Votre navigateur ne peut pas lire cette vidéo.",
+    "download": "Télécharger la vidéo (MP4)",
+    "error": "La vidéo n’a pas pu être chargée. Vérifiez votre connexion et réessayez.",
+    "retry": "Réessayer",
+    "posterAlt": "Aperçu de la vidéo : le tableau de bord Markazona d’un centre de formation"
+  },
+  "about": {
+    "storyTitle": "Notre histoire",
+    "story": [
+      "Dans la plupart des centres que nous rencontrons, les inscriptions arrivent sur WhatsApp, l'appel se fait sur un cahier et les paiements se suivent dans Excel. L'information est éparpillée, et l'équipe passe ses soirées à tout recouper.",
+      "Nous avons créé Markazona pour réunir la gestion d'un centre dans une seule plateforme, pensée pour le Maroc : en français et en arabe, en dirhams, pour les espèces et les chèques, et pour les niveaux du système marocain.",
+      "Notre objectif : que tout reste clair et organisé, pour que vous puissiez vous concentrer sur l'essentiel — enseigner et développer votre centre."
+    ],
+    "principlesTitle": "Ce qui guide Markazona",
+    "principles": {
+      "local": {
+        "title": "Pensé pour le Maroc",
+        "description": "Dirhams, espèces et chèques, téléphones +212, niveaux 1AC à 2 Bac, interface en arabe de droite à gauche."
+      },
+      "simple": {
+        "title": "Simple au quotidien",
+        "description": "Un appel en quelques secondes, un reçu en moins d'une minute, un planning sans conflit."
+      },
+      "trust": {
+        "title": "Digne de confiance",
+        "description": "Données isolées par organisation, permissions par rôle, chaque encaissement tracé."
+      }
+    }
+  },
+  "contact": {
+    "channelsTitle": "Choisissez votre canal",
+    "whatsapp": {
+      "title": "Parler à un conseiller",
+      "description": "Une question avant de commencer ? Écrivez-nous sur WhatsApp, en français ou en darija.",
+      "cta": "Ouvrir WhatsApp"
+    },
+    "trial": {
+      "title": "Essayer gratuitement",
+      "description": "Créez votre espace en 5 minutes et testez Markazona pendant 14 jours, sans carte bancaire.",
+      "cta": "Commencer l'essai"
+    },
+    "demo": {
+      "title": "Voir la démo",
+      "description": "Explorez l'application avec les données d'un centre de démonstration.",
+      "cta": "Ouvrir la démo"
+    },
+    "location": "Casablanca, Maroc",
+    "languages": "Français · العربية · Darija"
+  },
+  "footer": {
+    "tagline": "La plateforme de gestion des centres de formation et de soutien scolaire au Maroc.",
+    "location": "Casablanca, Maroc",
+    "product": "Produit",
+    "company": "Entreprise",
+    "getStarted": "Démarrer",
+    "rights": "© {year} Markazona. Tous droits réservés.",
+    "madeIn": "Conçu au Maroc"
+  },
+  "notFound": {
+    "metaTitle": "Page introuvable",
+    "eyebrow": "Erreur 404",
+    "title": "Cette page n'existe pas.",
+    "lead": "Le lien est peut-être ancien. Revenez à l'accueil pour découvrir Markazona.",
+    "cta": "Retour à l'accueil"
+  },
+  "schema": {
+    "appSubCategory": "Logiciel de gestion de centre de formation",
+    "serviceName": "Markazona pour {audience}",
+    "country": "Maroc",
+    "city": "Casablanca"
+  }
+}
